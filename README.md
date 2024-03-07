@@ -32,3 +32,4 @@ Learn more about the Android [Gradle Plugin compatibility](https://developer.and
 ## Need Help?
 
 If you have any problems or issues over our SDK, feel free to create a github issue or submit a request on [Amplitude Help](https://help.amplitude.com/hc/en-us/requests/new).
+
